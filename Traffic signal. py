@@ -1,0 +1,11 @@
+import time
+
+while True:
+    print("🔴 RED Light - Stop")
+    time.sleep(5)
+
+    print("🟡 YELLOW Light - Get Ready")
+    time.sleep(2)
+
+    print("🟢 GREEN Light - Go")
+    time.sleep(5)
